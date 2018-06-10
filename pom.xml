@@ -29,7 +29,7 @@
       <artifactId>powermock-module-junit4</artifactId>
       <version>1.5.1</version>
       <scope>test</scope>
-    </dependency
+	  </dependency>
              
     <dependency>
       <groupId>org.powermock</groupId>
