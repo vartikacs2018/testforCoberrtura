@@ -1,4 +1,4 @@
-package com.example.javamavenjunithelloworld;
+/**package com.example.javamavenjunithelloworld;
 
 import org.junit.Rule;
 import org.junit.Test;
@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
  * <p/>
  * http://www.stefan-birkner.de/system-rules
  */
-public class HelloWithTestsIT {
+/**public class HelloWithTestsIT {
 
     @Rule
     public final StandardOutputStreamLog out = new StandardOutputStreamLog();
@@ -39,3 +39,4 @@ public class HelloWithTestsIT {
         assertThat(out.getLog(), is(equalTo(thrice)));
     }
 }
+*/
