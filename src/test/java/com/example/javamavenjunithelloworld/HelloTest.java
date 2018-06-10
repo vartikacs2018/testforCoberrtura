@@ -1,4 +1,4 @@
-package com.example.javamavenjunithelloworld;
+/**package com.example.javamavenjunithelloworld;
 
 import org.junit.Test;
 
@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
-public class HelloTest {
+/**public class HelloTest {
 
     @Test
     public void testSayHello() {
@@ -53,3 +53,4 @@ public class HelloTest {
         hi.setTimes(-1);
     }
 }
+*/
