@@ -77,9 +77,12 @@
           </compilerArgs>
         </configuration>
       </plugin>
-	     <groupId>org.codehaus.mojo</groupId>
-  <artifactId>sonar-maven-plugin</artifactId>
-  <version>2.3</version>
+	    
+	    <plugin>
+   <groupId>org.codehaus.mojo</groupId>
+   <artifactId>sonar-maven-plugin</artifactId>
+   <version>2.3</version>
+</plugin>
 	    
 	    
       <plugin>
