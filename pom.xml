@@ -77,6 +77,11 @@
           </compilerArgs>
         </configuration>
       </plugin>
+	     <groupId>org.codehaus.mojo</groupId>
+  <artifactId>sonar-maven-plugin</artifactId>
+  <version>2.3</version>
+	    
+	    
       <plugin>
         <!-- Unit tests are run by surefire. -->
         <!-- Classes under src/test/java called *Test are included automatically. -->
@@ -117,5 +122,9 @@
       </plugin>
     </plugins>
   </reporting>
+	<properties>
+		                       
+             <sonar.host.url>http://localhost:9000</sonar.host.url>
+		</properties>
 
 </project>
