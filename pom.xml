@@ -71,7 +71,7 @@
 		<configuration>
 			<url>http://localhost:8999/manager/text</url>
 			<server>localhost</server>
-			<warFile>target/java-maven-junit-helloworld.war</warFile>
+			<warFile>target/java-maven-junit-helloworld-1.0-SNAPSHOT.war</warFile>
 			<path>/target</path>
 			<contextReloadable>true</contextReloadable>
 			<username>admin</username>
