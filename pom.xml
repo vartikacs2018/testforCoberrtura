@@ -134,7 +134,8 @@
             <version>2.6</version>
             <configuration>
                 <formats>
-                    <format>xml</format>
+                    <format>html</format>
+                 <format>xml</format>
                 </formats>
             </configuration>
         </plugin>
